@@ -1,0 +1,15 @@
+C:\Users\USER_PC\OneDrive\מסמכים\ness\new\weatherServer\BLL\obj\Debug\netcoreapp3.0\BLL.csproj.AssemblyReference.cache
+C:\Users\USER_PC\OneDrive\מסמכים\ness\new\weatherServer\BLL\obj\Debug\netcoreapp3.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER_PC\OneDrive\מסמכים\ness\new\weatherServer\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfoInputs.cache
+C:\Users\USER_PC\OneDrive\מסמכים\ness\new\weatherServer\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfo.cs
+C:\Users\USER_PC\OneDrive\מסמכים\ness\new\weatherServer\BLL\obj\Debug\netcoreapp3.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\USER_PC\OneDrive\מסמכים\ness\new\weatherServer\BLL\bin\Debug\netcoreapp3.0\BLL.deps.json
+C:\Users\USER_PC\OneDrive\מסמכים\ness\new\weatherServer\BLL\bin\Debug\netcoreapp3.0\BLL.dll
+C:\Users\USER_PC\OneDrive\מסמכים\ness\new\weatherServer\BLL\bin\Debug\netcoreapp3.0\BLL.pdb
+C:\Users\USER_PC\OneDrive\מסמכים\ness\new\weatherServer\BLL\bin\Debug\netcoreapp3.0\DAL.dll
+C:\Users\USER_PC\OneDrive\מסמכים\ness\new\weatherServer\BLL\bin\Debug\netcoreapp3.0\DTO.dll
+C:\Users\USER_PC\OneDrive\מסמכים\ness\new\weatherServer\BLL\bin\Debug\netcoreapp3.0\DAL.pdb
+C:\Users\USER_PC\OneDrive\מסמכים\ness\new\weatherServer\BLL\bin\Debug\netcoreapp3.0\DTO.pdb
+C:\Users\USER_PC\OneDrive\מסמכים\ness\new\weatherServer\BLL\obj\Debug\netcoreapp3.0\BLL.dll
+C:\Users\USER_PC\OneDrive\מסמכים\ness\new\weatherServer\BLL\obj\Debug\netcoreapp3.0\BLL.pdb
+C:\Users\USER_PC\OneDrive\מסמכים\ness\new\weatherServer\BLL\obj\Debug\netcoreapp3.0\BLL.csproj.CopyComplete

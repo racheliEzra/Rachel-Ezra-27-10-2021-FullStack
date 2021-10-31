@@ -1,0 +1,10 @@
+C:\Users\USER_PC\OneDrive\מסמכים\ness\new\weatherServer\DTO\bin\Debug\netcoreapp3.0\DTO.deps.json
+C:\Users\USER_PC\OneDrive\מסמכים\ness\new\weatherServer\DTO\bin\Debug\netcoreapp3.0\DTO.dll
+C:\Users\USER_PC\OneDrive\מסמכים\ness\new\weatherServer\DTO\bin\Debug\netcoreapp3.0\DTO.pdb
+C:\Users\USER_PC\OneDrive\מסמכים\ness\new\weatherServer\DTO\obj\Debug\netcoreapp3.0\DTO.csproj.AssemblyReference.cache
+C:\Users\USER_PC\OneDrive\מסמכים\ness\new\weatherServer\DTO\obj\Debug\netcoreapp3.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER_PC\OneDrive\מסמכים\ness\new\weatherServer\DTO\obj\Debug\netcoreapp3.0\DTO.AssemblyInfoInputs.cache
+C:\Users\USER_PC\OneDrive\מסמכים\ness\new\weatherServer\DTO\obj\Debug\netcoreapp3.0\DTO.AssemblyInfo.cs
+C:\Users\USER_PC\OneDrive\מסמכים\ness\new\weatherServer\DTO\obj\Debug\netcoreapp3.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\USER_PC\OneDrive\מסמכים\ness\new\weatherServer\DTO\obj\Debug\netcoreapp3.0\DTO.dll
+C:\Users\USER_PC\OneDrive\מסמכים\ness\new\weatherServer\DTO\obj\Debug\netcoreapp3.0\DTO.pdb

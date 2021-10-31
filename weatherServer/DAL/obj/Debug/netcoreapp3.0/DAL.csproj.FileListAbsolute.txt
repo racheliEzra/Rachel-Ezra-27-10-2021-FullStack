@@ -1,0 +1,10 @@
+C:\Users\USER_PC\OneDrive\מסמכים\ness\new\weatherServer\DAL\bin\Debug\netcoreapp3.0\DAL.deps.json
+C:\Users\USER_PC\OneDrive\מסמכים\ness\new\weatherServer\DAL\bin\Debug\netcoreapp3.0\DAL.dll
+C:\Users\USER_PC\OneDrive\מסמכים\ness\new\weatherServer\DAL\bin\Debug\netcoreapp3.0\DAL.pdb
+C:\Users\USER_PC\OneDrive\מסמכים\ness\new\weatherServer\DAL\obj\Debug\netcoreapp3.0\DAL.csproj.AssemblyReference.cache
+C:\Users\USER_PC\OneDrive\מסמכים\ness\new\weatherServer\DAL\obj\Debug\netcoreapp3.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER_PC\OneDrive\מסמכים\ness\new\weatherServer\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfoInputs.cache
+C:\Users\USER_PC\OneDrive\מסמכים\ness\new\weatherServer\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfo.cs
+C:\Users\USER_PC\OneDrive\מסמכים\ness\new\weatherServer\DAL\obj\Debug\netcoreapp3.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\USER_PC\OneDrive\מסמכים\ness\new\weatherServer\DAL\obj\Debug\netcoreapp3.0\DAL.dll
+C:\Users\USER_PC\OneDrive\מסמכים\ness\new\weatherServer\DAL\obj\Debug\netcoreapp3.0\DAL.pdb

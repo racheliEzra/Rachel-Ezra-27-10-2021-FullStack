@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "PAtgAVBDGoaPlqc47lyD3/R9xtd5snCYhUyfqabdiIkZo1QWiQwwlI+1jMEMwElt9e9Cwggt1y/UV4KgWliTvQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\111\\Documents\\Rachel-Ezra-27-10-2021-FullStack\\weatherServer\\DTO\\DTO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\111\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\111\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\111\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
